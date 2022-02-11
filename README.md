@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lethanhtong1209
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning london
+- 💞️ I’m looking to collaborate on ...my
 - 📫 How to reach me ...
 
 <!---
